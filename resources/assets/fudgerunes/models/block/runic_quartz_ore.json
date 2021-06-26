@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "fudgerunes:blocks/runic_quartz_ore"
-	}
-}
