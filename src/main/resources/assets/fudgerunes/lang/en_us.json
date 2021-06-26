@@ -1,0 +1,19 @@
+{
+	"item.fudgerunes.runic_quartz": "Runic Quartz",
+	"item.fudgerunes.chisel_tool": "Chisel",
+	"item.fudgerunes.ruby": "Ruby",
+	"item.fudgerunes.sapphire": "Sapphire",
+	"item.fudgerunes.malachite": "Malachite",
+	"item.fudgerunes.citrine": "Citrine",
+	"item.fudgerunes.topaz": "Topaz",
+	"item.fudgerunes.enderite": "Enderite",
+	"item.fudgerunes.onyx": "Onyx",
+	"item.fudgerunes.kyanite": "Kyanite",
+	"item.fudgerunes.amethyst": "Amethyst",
+	"item.fudgerunes.amber": "Amber",
+
+	
+	"block.fudgerunes.runic_quartz_ore": "Runic Quartz Ore",
+	
+	"itemGroup.fudge_runes": "Fudge's R.U.N.E.S"
+}
